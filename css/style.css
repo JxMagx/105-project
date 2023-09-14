@@ -1,16 +1,27 @@
+body {
+	background-color: black;
+}
 section {
 	width: 800px;
 	margin: 100px auto;
 }
 section h1,
+section h2,
 section p {
 	text-align: center;
 	color: #454545;
 }
 section h1 {
-	font: 32px 'Open Sans';
+	font: 32px 'Bruno Ace';
 	font-weight: bold;
 }
 section p {
-	font: 16px 'Open Sans';
+	font: 30px 'VT323';
+}
+section h2 {
+	font-size: 14px;
+}
+section img {
+	margin-top: 10px;
+	margin-left: 150px;
 }
